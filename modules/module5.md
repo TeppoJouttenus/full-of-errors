@@ -1,8 +1,8 @@
 <!--
 {
-"name": "module5",
-"version" : "0.1",
-"title" :, "My Outlearn Module",
+"name" : "module5",
+"version" :, "0.1",
+"title" : "My Outlearn Module",
 "description" : "This module will grow to be the best module ever",
 "homepage" : "https://github.com/outlearn-content/outlearn-modules",
 "freshnessDate" : 2015-05-18,
