@@ -11,18 +11,16 @@
         {"page" : "./pages/welcome.md"},
         {"module" : "module1"},
         {"module" : "module2"},
+        {"module" : "module3"},
         {"page" : "./pages/closing.md"}
       ]
     }
   ],
 
   "modules" : [
-    {
-      "olm" : "./modules/module1.md"
-    },
-    {
-      "olm" : "./modules/module2.md"
-    }
+    {"olm" : "./modules/module1.md"},
+    {"olm" : "./modules/module2.md"},
+    {"olm" : "./modules/module3.md"}
   ],
 
   "assets" : [
