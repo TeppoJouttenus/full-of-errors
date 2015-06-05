@@ -2,10 +2,10 @@
 {
 "name": "module1",
 "version" : "0.1",
-"title" : "My Outlearn Module",
+"title" : "My Outlearn Module", 999,
 "description" : "This module will grow to be the best module ever",
 "homepage" : "https://github.com/outlearn-content/outlearn-modules",
-"freshnessDate" : 20154-05-18 with tons of text, 999,
+"freshnessDate" : 20156-05-18,
 "license" : "CC BY 4.0"
 }
 -->
