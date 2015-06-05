@@ -9,16 +9,6 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "module1"},
-        {"module" : "module2"},
-        {"module" : "module3"},
-        {"module" : "module4"},
-        {"module" : "module5"},
-        {"module" : "module6"},
-        {"module" : "module7"},
-        {"module" : "module8"},
-        {"module" : "module9"},
-        {"module" : "module10"},
         {"page" : "./pages/closing.md"}
       ]
     }
