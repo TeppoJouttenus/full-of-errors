@@ -16,7 +16,7 @@
   ],
 
   "modules" : [
-    {"olm" : "./modules/module1.md"},
+    {"olm" : ""./modules/module1.md"},
     {"olm" : "./modules/module2.md"},
     {"olm" : "./modules/module3.md"},
     {"olm" : "./modules/module4.md"},
