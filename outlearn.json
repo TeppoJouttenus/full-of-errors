@@ -9,7 +9,7 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
-        {"module" : "1"},
+        {"module" : "module1"},
         {"page" : "./pages/closing.md"}
       ]
     }
@@ -17,7 +17,7 @@
 
   "modules" : [
     {
-      "olm" : "./modules/1.md"
+      "olm" : "./modules/module1.md"
     }
   ],
 
