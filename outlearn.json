@@ -9,6 +9,7 @@
       "privacy" : "public",
       "pages" : [
         {"page" : "./pages/welcome.md"},
+        {"module" : "module1"},
         {"page" : "./pages/closing.md"}
       ]
     }
