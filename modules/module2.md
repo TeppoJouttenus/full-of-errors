@@ -2,7 +2,7 @@
 {
 "name": "module2",
 "version" : "0.1",
-"title"1 : "My Outlearn Module",
+"title" : "My Outlearn Module",
 "description" : "This module will grow to be the best module ever",
 "homepage" : "https://github.com/outlearn-content/outlearn-modules",
 "freshnessDate" : "2015-05-18",
