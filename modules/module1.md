@@ -5,7 +5,7 @@
 "title" : "My Outlearn Module",
 "description" : "This module will grow to be the best module ever",
 "homepage" : "https://github.com/outlearn-content/outlearn-modules",
-"freshnessDate" : 20154-05-18,
+"freshnessDate" : 20154-05-18 with tons of text,
 "license" : "CC BY 4.0"
 }
 -->
