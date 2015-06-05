@@ -8,7 +8,7 @@
       "description" : "Straying from the happy path to test error reporting",
       "privacy" : "public",
       "pages" : [
-        {"page" :1 "./pages/welcome.md"},
+        {"page" : "./pages/welcome.md"},
         {"module" : "module1"},
         {"page" : "./pages/closing.md"}
       ]
