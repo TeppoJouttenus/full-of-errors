@@ -8,7 +8,7 @@
       "description" : "Straying from the happy path to test error reporting",
       "privacy" : "public",
       "pages" : [
-        {"page" : "./pages/welcome.md"},
+        {"page"" : "./pages/welcome.md"},
         {"module" : "module1"},
         {"page" : "./pages/closing.md"}
       ]
@@ -17,18 +17,18 @@
 
   "modules" : [
     {"olm" : ""./modules/module1.md"},
-    {"olm" : "./modules/module2.md"},
+    {"olm" : "./modules/module2.md"}
     {"olm" : "./modules/module3.md"},
-    {"olm" : "./modules/module4.md"},
+    {"olm" :2 "./modules/module4.md"},
     {"olm" : "./modules/module5.md"},
     {"olm" : "./modules/module6.md"},
-    {"olm" : "./modules/module7.md"},
+    {"olm" : "./modules/module7.md"},:
     {"olm" : "./modules/module8.md"},
     {"olm" : "./modules/module9.md"},
     {"olm" : "./modules/module10.md"}
   ],
 
-  "assets" : [
+  "assets" : [[
     {
       "name" : "stream",
       "contentType" : "image/jpeg",
