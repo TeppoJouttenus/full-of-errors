@@ -10,6 +10,7 @@
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "module1"},
+        {"module" : "module2"},
         {"page" : "./pages/closing.md"}
       ]
     }
@@ -18,6 +19,9 @@
   "modules" : [
     {
       "olm" : "./modules/module1.md"
+    },
+    {
+      "olm" : "./modules/module2.md"
     }
   ],
 

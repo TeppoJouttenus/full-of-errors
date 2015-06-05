@@ -1,11 +1,11 @@
 <!--
 {
-"name": "module1",
+"name": "module2",
 "version" : "0.1",
-"title" : "My Outlearn Module",
+"title"1 : "My Outlearn Module",
 "description" : "This module will grow to be the best module ever",
 "homepage" : "https://github.com/outlearn-content/outlearn-modules",
-"freshnessDate" : 20156-05-18,
+"freshnessDate" : 2015-05-18,
 "license" : "CC BY 4.0"
 }
 -->
