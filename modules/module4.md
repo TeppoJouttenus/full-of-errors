@@ -1,7 +1,7 @@
 <!--
 {
 "name": "module4",
-"version" : "0.1"
+"version" : "0.1",
 "title"1 : "My Outlearn Module",
 "description" : "This module will grow to be the best module ever",
 "homepage" : "https://github.com/outlearn-content/outlearn-modules",
