@@ -6,6 +6,7 @@
       "name" : "error-path",
       "title" : "How Many Errors Can I Create",
       "description" : "Straying from the happy path to test error reporting",
+      "coverImage" : "https://www.outlearn.com/images/non-existent.jpg",
       "privacy" : "public",
       "pages" : [
         {"page"" : "./pages/welcome.md"},
